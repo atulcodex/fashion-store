@@ -24,7 +24,7 @@ Fashion store HTML Template is a clean and single page design – suitable for s
 .
 .
 
-[![Nihory - Portfolio site template live demo](https://i.ibb.co/vwN8cgW/live-demo.png)](https://restaurant-website-atulcodex.netlify.app/)
+[![Nihory - Portfolio site template live demo](https://i.ibb.co/vwN8cgW/live-demo.png)](https://fashion-store-opensource.netlify.app/)
 
 .
 .
